@@ -21,7 +21,7 @@ $l['bottomlinks_syndication'] = "RSS ลิงค์";
 $l['bottomlinks_litemode'] = "โหมดข้อความล้วน";
 $l['bottomlinks_markread'] = "ทำสัญลักษณ์ว่าอ่านแล้วทั้งหมด";
 
-$l['welcome_usercp'] = "เครื่องมือผู้ใช้";
+$l['welcome_usercp'] = "ข้อมูลส่วนตัว";
 $l['welcome_modcp'] = "เครื่องมือผู้ดูแล";
 $l['welcome_admin'] = "จัดการระบบ";
 $l['welcome_logout'] = "ออกจากระบบ";

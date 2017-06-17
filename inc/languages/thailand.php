@@ -1,10 +1,4 @@
 <?php
-/**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
- */
-
 // The friendly name of the language
 $langinfo['name'] = "Thai (ไทย)";
 
@@ -24,7 +18,7 @@ $langinfo['admin'] = 0;
 $langinfo['rtl'] = 0;
 
 // Sets the lang in the <html> on all pages
-$langinfo['htmllang'] = "en";
+$langinfo['htmllang'] = "th";
 
 // Sets the character set, blank uses the default.
 $langinfo['charset'] = "UTF-8";
